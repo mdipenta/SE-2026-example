@@ -3,7 +3,7 @@ from typing import Optional
 
 import requests
 
-
+# comment
 def get_github_history(
     owner: str,
     repo: str,
